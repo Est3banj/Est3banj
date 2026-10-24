@@ -1,9 +1,6 @@
 # Esteban Jurado
 
-**Full Stack Developer** · React · TypeScript · Firebase
-
-Putumayo, Colombia  
-SENA — Tecnologo en Analisis y Desarrollo de Software
+**Full Stack Developer** · React · TypeScript · Java 
 
 ---
 
